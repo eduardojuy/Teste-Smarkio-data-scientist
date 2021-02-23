@@ -5,20 +5,26 @@ Repositório,  com as informações do teste da SMARKIO para a vaga interna de C
 - Para executar o cógido você pode utilizar duas plataformas, utilize o localhost do Jupyter por achar mais viavel, mas para a execução você pode utilizar o collab da google: 
 - Link para acessar o [Colab](https://colab.research.google.com/).
 - Link para acessar o site do [Jupyter](https://jupyter.org/).
-Atualmente estou utilizando windows, como processo padrão acredito que você precisa instalar o jupyter, utilizei o seguinte comando: pip jupyter install.
+Atualmente estou utilizando windows, como processo padrão acredito que você precisa instalar o jupyter, utilizei o seguinte comando:
+```sh
+pip jupyter install.
+```
+## Melhor Experincia de uso:
+
+- Como melhor experiencia na utilização dos codigos, recomendo pegar a linha a linha ir inserindo  em uma dessas plataformas. As duas são bem autoexplicativas.
 
 
-Como melhor experiencia na utilização dos codigos, recomendo pegar a linha a linha ir inserindo  em uma dessas plataformas. As duas são bem autoexplicativas.
+## Questões:
 
 Separei o arquivo em 4 onde cada um possui um questão:
 
-Primeiro arquivo é chamado de "Teste Smarkio", lá ele contém as informações da Analise exploratorio e estatistica descriva...
+- Primeiro arquivo é chamado de "Teste Smarkio", lá ele contém as informações da Analise exploratorio e estatistica descriva...
 
-Já o segundo documento "Teste Smarkio 2" possui as informações dos modelos utilizados e os calculos dos mesmos.
+- Já o segundo documento "Teste Smarkio 2" possui as informações dos modelos utilizados e os calculos dos mesmos.
 
-O terceiro arquivo "Teste Smarkio - 3" contém a informação dol classificador dos dados com informações de stauts igual a revision(Não consegui fazer a separação de revisian e approved então dentro do classifcador possui as duas informações).
+- O terceiro arquivo "Teste Smarkio - 3" contém a informação dol classificador dos dados com informações de stauts igual a revision(Não consegui fazer a separação de revisian e approved então dentro do classifcador possui as duas informações).
 
-O Quarto arquivo possui as informações sobre as netrucas utilizadas dentro dos modelos, dentro do arquivo 2"Teste smarkio 2" tem uma comparação de cada modelo que utilize e uma comparação das metricas, por modelo.
+- O Quarto arquivo possui as informações sobre as netrucas utilizadas dentro dos modelos, dentro do arquivo 2"Teste smarkio 2" tem uma comparação de cada modelo que utilize e uma comparação das metricas, por modelo.
 
 
 Disponilizei um arquivo em .py para caso seja necessario abrir no idle. Para a execução do mesmo recomendo utilizar o pront de comando(terminal) em vez de dar double-click no arquivo.
