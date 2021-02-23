@@ -3,8 +3,8 @@ Repositório,  com as informações do teste da SMARKIO para a vaga interna de C
 
 
 - Para executar o cógido você pode utilizar duas plataformas, utilize o localhost do Jupyter por achar mais viavel, mas para a execução você pode utilizar o collab da google: 
-- Link para acessar o colab:https://colab.research.google.com/
-- Link para acessar o site do jupyter:https://jupyter.org/
+- Link para acessar o [Colab](https://colab.research.google.com/).
+- Link para acessar o site do [Jupyter](https://jupyter.org/).
 Atualmente estou utilizando windows, como processo padrão acredito que você precisa instalar o jupyter, utilizei o seguinte comando: pip jupyter install.
 
 
@@ -30,10 +30,7 @@ Referente a última questão não consegui fazer a tarefa solicitada.
 
 Qualquer dúvida estou à disposição.
 
-Agradeço a oportunidade de fazer o teste. Muito Obrigado
+Agradeço a oportunidade de fazer o teste. Muito Obrigado.
 
-
-Atenciosamente
--
 Eduardo Juy
 
