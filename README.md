@@ -10,7 +10,7 @@ Repositório,  com as informações do teste da SMARKIO para a vaga interna de C
 > Windows
 
 ### Execução dos scripts
-definir aqui em passos 
+- *Melhor metodo* rodando linha a linha em qualquer uma das plataformas citadas a cima.
 - Arquivos  `.py` para execução..
 Disponilizei um arquivo em .py para caso seja necessario abrir em um editor de texto. Para a execução do mesmo recomendo utilizar o pront de comando(terminal) em vez de dar double-click no arquivo.
 
